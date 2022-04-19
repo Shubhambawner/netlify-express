@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/another"
-  to = "/"
+  to = "/another"
   status = 200
   force = false
 
